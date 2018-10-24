@@ -519,6 +519,6 @@
 - GitHub: [Taewan-P](https://github.com/Taewan-P)
 
 #### Name: [William H](https://github.com/Beriothien)
--Place: Oklahoma City, Oklahoma, USA
--Bio: Student at Francis Tuttle
--GitHub: [Beriothien](https://github.com/Beriothien)
+- Place: Oklahoma City, Oklahoma, USA
+- Bio: Student at Francis Tuttle
+- GitHub: [Beriothien](https://github.com/Beriothien)
